@@ -6,7 +6,7 @@ final class DoritosColorsTests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(DoritosColors().text, "Hello, World!")
+        //XCTAssertEqual(DoritosColors().text, "Hello, World!")
     }
 
     static var allTests = [
