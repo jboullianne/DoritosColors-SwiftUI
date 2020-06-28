@@ -1,7 +1,7 @@
 import SwiftUI
 
 @available (iOS 13.0, macOS 10.15, *)
-extension Color {
+public extension Color {
     struct Doritos {
         var flaminHotNacho: Color = Color(red: 232/255, green: 24/255, blue: 45/255)
         var flaminHotLimon: Color = Color(red: 138/255, green: 192/255, blue: 39/255)
